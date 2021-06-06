@@ -1,14 +1,13 @@
 //
-//  ViewController.swift
-//  flixmebro
+//  MovieGridViewController.swift
+//  
 //
 //  Created by Aryan Modi on 18/05/21.
-//  Copyright © 2021 aryanmodi.1999@gmail.com. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class MovieGridViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
